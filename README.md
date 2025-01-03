@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://Guruswamy12.io)
+<!---[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://Guruswamy12.io)-->
 <h1 align="center">Hi 👋, I'm Devammagari Guruswamy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif">
