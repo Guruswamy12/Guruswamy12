@@ -23,6 +23,7 @@
   <li>CSS</li>
   <li>JAVASCRIPT ES6</li>
   <li>REACT JS</li>
+  <li>TYPESCRIPT</li>
 </ul>
 <h3>📌 Backend Development</h3>
 <ul>
